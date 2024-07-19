@@ -1,0 +1,430 @@
+[
+  {
+    "level": "A1",
+    "topics": [
+      {
+        "name": "Self-introduction",
+        "examples": [
+          "My name is John.",
+          "I am from Canada."
+        ],
+        "questions": [
+          "What is your name?",
+          "Where are you from?"
+        ]
+      },
+      {
+        "name": "Family",
+        "examples": [
+          "I have two sisters.",
+          "My mother is a teacher."
+        ],
+        "questions": [
+          "How many siblings do you have?",
+          "What does your father do?"
+        ]
+      },
+      {
+        "name": "Daily routines",
+        "examples": [
+          "I get up at 7 AM.",
+          "I eat breakfast every morning."
+        ],
+        "questions": [
+          "What time do you get up?",
+          "What do you eat for breakfast?"
+        ]
+      },
+      {
+        "name": "Basic greetings",
+        "examples": [
+          "Hello, how are you?",
+          "Good morning!"
+        ],
+        "questions": [
+          "How do you say 'good evening' in English?",
+          "What are some common greetings in English?"
+        ]
+      },
+      {
+        "name": "Numbers",
+        "examples": [
+          "One, two, three, four, five.",
+          "I have one brother."
+        ],
+        "questions": [
+          "How do you count from one to ten?",
+          "What is 'fifteen' plus 'seven'?"
+        ]
+      },
+      {
+        "name": "Colors",
+        "examples": [
+          "My favorite color is blue.",
+          "The sky is blue and the grass is green."
+        ],
+        "questions": [
+          "What color is your shirt?",
+          "Can you name four colors?"
+        ]
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "topics": [
+      {
+        "name": "School",
+        "examples": [
+          "I go to school every day.",
+          "My favorite subject is English."
+        ],
+        "questions": [
+          "What subjects do you study?",
+          "Do you like your school?"
+        ]
+      },
+      {
+        "name": "Local area",
+        "examples": [
+          "There is a park near my house.",
+          "I live in a small town."
+        ],
+        "questions": [
+          "What is near your house?",
+          "Do you live in a city or a town?"
+        ]
+      },
+      {
+        "name": "Shopping",
+        "examples": [
+          "I go shopping on weekends.",
+          "We need to buy some bread."
+        ],
+        "questions": [
+          "Where do you usually shop?",
+          "What did you buy recently?"
+        ]
+      },
+      {
+        "name": "Simple job descriptions",
+        "examples": [
+          "He is a teacher and teaches kids.",
+          "My mother is a doctor."
+        ],
+        "questions": [
+          "What does a plumber do?",
+          "Describe the job of a teacher."
+        ]
+      },
+      {
+        "name": "Food and drink",
+        "examples": [
+          "I like pizza.",
+          "We drink water every day."
+        ],
+        "questions": [
+          "What was your breakfast today?",
+          "What is your favorite drink?"
+        ]
+      },
+      {
+        "name": "Basic weather",
+        "examples": [
+          "It is sunny today.",
+          "It was raining yesterday."
+        ],
+        "questions": [
+          "What is the weather like today?",
+          "What are the four seasons?"
+        ]
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "topics": [
+      {
+        "name": "Travel plans",
+        "examples": [
+          "I am planning to visit Spain next month.",
+          "We are flying to Paris."
+        ],
+        "questions": [
+          "Where are you planning to travel?",
+          "How will you get there?"
+        ]
+      },
+      {
+        "name": "Leisure activities",
+        "examples": [
+          "I like to play tennis on weekends.",
+          "Reading books is my favorite hobby."
+        ],
+        "questions": [
+          "What do you do in your free time?",
+          "Do you have any hobbies?"
+        ]
+      },
+      {
+        "name": "Past experiences",
+        "examples": [
+          "I went to a concert last year.",
+          "I have visited France before."
+        ],
+        "questions": [
+          "Tell me about a recent trip you had.",
+          "Have you ever lived in another country?"
+        ]
+      },
+      {
+        "name": "Health",
+        "examples": [
+          "I exercise to stay healthy.",
+          "Eating vegetables is good for your health."
+        ],
+        "questions": [
+          "How often do you exercise?",
+          "What do you do to keep healthy?"
+        ]
+      },
+      {
+        "name": "Environment",
+        "examples": [
+          "We should recycle more.",
+          "Pollution is a big problem."
+        ],
+        "questions": [
+          "What can we do to help the environment?",
+          "How is the environment changing?"
+        ]
+      },
+      {
+        "name": "Education system",
+        "examples": [
+          "I study in a public school.",
+          "Our education system includes primary, secondary, and higher education."
+        ],
+        "questions": [
+          "What do you think about your country's education system?",
+          "How is the education system organized in your country?"
+        ]
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "topics": [
+      {
+        "name": "Cultural events",
+        "examples": [
+          "I enjoy going to art exhibitions.",
+          "The theater performance was amazing."
+        ],
+        "questions": [
+          "What cultural events do you like?",
+          "Have you been to a concert recently?"
+        ]
+      },
+      {
+        "name": "News and current events",
+        "examples": [
+          "I read the news every day.",
+          "There was a protest in the city."
+        ],
+        "questions": [
+          "What news do you follow?",
+          "What are some recent events in your country?"
+        ]
+      },
+      {
+        "name": "Work-related issues",
+        "examples": [
+          "I have a meeting with my boss tomorrow.",
+          "I need to finish this report by Friday."
+        ],
+        "questions": [
+          "What is your job?",
+          "What are some challenges at work?"
+        ]
+      },
+      {
+        "name": "Abstract ideas and opinions",
+        "examples": [
+          "I believe in equality for all.",
+          "Freedom of speech is important."
+        ],
+        "questions": [
+          "What are your thoughts on freedom of speech?",
+          "Do you think everyone should have equal rights?"
+        ]
+      },
+      {
+        "name": "Technology and its impacts",
+        "examples": [
+          "Technology has changed our lives.",
+          "Social media is popular among young people."
+        ],
+        "questions": [
+          "How has technology impacted society?",
+          "What are the benefits of social media?"
+        ]
+      },
+      {
+        "name": "Advanced healthcare discussion",
+        "examples": [
+          "Medical research is important for new treatments.",
+          "Preventive healthcare can reduce illnesses."
+        ],
+        "questions": [
+          "What are some advancements in healthcare?",
+          "How can we improve healthcare systems?"
+        ]
+      }
+    ]
+  },
+  {
+    "level": "C1",
+    "topics": [
+      {
+        "name": "Complex social and professional topics",
+        "examples": [
+          "Globalization has changed the business landscape.",
+          "Social media has impacted communication."
+        ],
+        "questions": [
+          "How has globalization affected businesses?",
+          "What are the effects of social media on society?"
+        ]
+      },
+      {
+        "name": "Detailed descriptions of experiences and events",
+        "examples": [
+          "The conference was well-organized and informative.",
+          "The trip to the mountains was breathtaking."
+        ],
+        "questions": [
+          "Can you describe a recent event you attended?",
+          "What was your experience like on your last trip?"
+        ]
+      },
+      {
+        "name": "Speculations on the future",
+        "examples": [
+          "Artificial intelligence may revolutionize industries.",
+          "Climate change could have severe consequences."
+        ],
+        "questions": [
+          "What do you think the future will look like?",
+          "How can we prepare for potential changes?"
+        ]
+      },
+      {
+        "name": "Legal and economic discussions",
+        "examples": [
+          "The new tax laws will impact small businesses.",
+          "Legal disputes can be costly and time-consuming."
+        ],
+        "questions": [
+          "How do economic policies affect businesses?",
+          "What are the challenges in legal systems?"
+        ]
+      },
+      {
+        "name": "Science and advanced technology",
+        "examples": [
+          "Nanotechnology has promising applications in medicine.",
+          "Space exploration requires advanced technology."
+        ],
+        "questions": [
+          "What are the latest advancements in science?",
+          "How has technology improved scientific research?"
+        ]
+      },
+      {
+        "name": "Literature and art critique",
+        "examples": [
+          "The novel explores themes of identity and belonging.",
+          "The painting evokes a sense of nostalgia."
+        ],
+        "questions": [
+          "What themes are common in literature?",
+          "How does art influence society?"
+        ]
+      }
+    ]
+  },
+  {
+    "level": "C2",
+    "topics": [
+      {
+        "name": "High-level business negotiations",
+        "examples": [
+          "The merger deal was finalized after months of negotiations.",
+          "The company's CEO is skilled in business negotiations."
+        ],
+        "questions": [
+          "How do business negotiations impact companies?",
+          "What are the key factors in successful negotiations?"
+        ]
+      },
+      {
+        "name": "Politics and diplomacy",
+        "examples": [
+          "The summit was held to discuss international relations.",
+          "Diplomatic efforts are crucial for peace agreements."
+        ],
+        "questions": [
+          "How do politics influence global affairs?",
+          "What are the challenges in diplomatic relations?"
+        ]
+      },
+      {
+        "name": "Philosophical arguments",
+        "examples": [
+          "The philosopher presented a compelling argument on ethics.",
+          "Existentialism explores the meaning of life."
+        ],
+        "questions": [
+          "What are some philosophical questions that interest you?",
+          "How do philosophical ideas impact society?"
+        ]
+      },
+      {
+        "name": "Advanced scientific research topics",
+        "examples": [
+          "The research team made a breakthrough in cancer treatment.",
+          "Quantum physics is a complex field of study."
+        ],
+        "questions": [
+          "What are the latest advancements in scientific research?",
+          "How do scientific discoveries impact society?"
+        ]
+      },
+      {
+        "name": "Cultural subtleties in communication",
+        "examples": [
+          "Understanding cultural nuances is important in international business.",
+          "Non-verbal communication varies across cultures."
+        ],
+        "questions": [
+          "How do cultural differences affect communication?",
+          "What are some examples of cultural subtleties in language?"
+        ]
+      },
+      {
+        "name": "Creating complex literary content",
+        "examples": [
+          "The novel delves into the complexities of human nature.",
+          "The play explores themes of power and corruption."
+        ],
+        "questions": [
+          "What makes a piece of literature complex?",
+          "How do authors create depth in their writing?"
+        ]
+      }
+    ]
+  }
+]
+
+
